@@ -1,4 +1,4 @@
-# Hi, I'm Bharathwaj S (:snowman::computer::jack_o_lantern::beer:)
+# Hi, I'm Bharathwaj S (:computer:)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bharathwajist)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://tamaai.com/)
