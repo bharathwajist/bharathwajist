@@ -22,7 +22,8 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 🤯 A strange fact about me: I love to be alone and I'm crowd alergic.
 * ◕ᴗ◕)っ I like to dream. 
 * 😠 I don't like to leave dream as dream
-* 💪 I f*cking like very much to work for attaining those dreams.
+* 💪 I work hard to attain those dreams.
+* I don't whine for what I don't have. I do f**king work to get it in whatever it is.
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
 </p>
