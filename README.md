@@ -47,8 +47,6 @@ Oh and these get updated everyday! God bless Github Actions :)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathwajist&show_icons=true&theme=dracula" />
 
 <hr>
-[![Bharathwaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=bharathwajist&theme=react-dark)](https://github.com/bharathwajist/github-readme-activity-graph)
-<hr>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
