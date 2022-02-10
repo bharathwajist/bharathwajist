@@ -15,7 +15,7 @@ Be honest with me. Otherwise I won't show my code.
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
 * 🖥️ Currently working as a operating engineer in manufacturing industry.
-* 🖨️ I write business plans and I write better code to enhance myself on the side.
+* 🖨️ I write my plans to achieve my goal and I write code to achieve them.
 * ⚡ Member of the RISC-V. Let's play something with digital logic circuits if you interested in digital principles!
 * 🧐 Love exploring something new in Computer science.
 * 😄 Pronouns: He/him
