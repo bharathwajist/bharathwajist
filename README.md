@@ -14,14 +14,13 @@ Be honest with me. Otherwise I won't show my code.
 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
-* 🖥️ Currently working as a operating engineer in manufacturing industry.
+* 🖥️ Currently working as a system administrator in a firm.
 * 🖨️ I write my plans to achieve my goal and I write code to achieve them.
-* ⚡ Member of the RISC-V. Let's play something with digital logic circuits if you interested in digital principles!
+* ⚡ Member of the RISC-V.
 * 🧐 Love exploring something new in Computer science.
 * 😄 Pronouns: He/him
-* 🤯 A strange fact about me: I'm brutally honest.
-* ◕ᴗ◕)っ I like to dream. 
-* 😠 I don't like to leave dream as dream
+* 🤯 A strange fact about me: I'm brutally honest(partially).
+* 😠 I don't like to leave dream as dream.
 * 💪 I work hard to attain those dreams.
 * I don't whine for what I don't have. I do work to get it at any cost.
 <p align="left">
@@ -32,8 +31,6 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 ## Hey there, Chennai!
 
 I currently live in Chennai, Tamilnadu and I encourage everyone to definitely visit some of the amazing places in and around the area if you get a chance! For some inspiration, Because I don't like to visit any of them as I said I'm crowd alergic. I hate going out.
-
-Oh and these get updated everyday! God bless Github Actions :)
 
 ---
 ## 👨‍💻 Github Stats
