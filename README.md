@@ -41,9 +41,9 @@ I currently live in Chennai, Tamilnadu and I encourage everyone to definitely vi
 <a href="https://github.com/bharathwajist/bharathwajist">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathwajist&hide=handlebars,ejs&bg_color=010d28&title_color=F2C300&icon_color=F2bbc8a&text_color=ffffff&langs_count=4" alt="Top Langs"/>
 </a>
-<!-- <a href="https://github.com/bharathwajist/bharathwajist">
+<a href="https://github.com/bharathwajist/bharathwajist">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathwajist&show_icons=true&count_private=true&bg_color=010d28&title_color=F2C300&icon_color=F2bbc8a&text_color=ffffff&include_all_commits=true" alt="Bharathwaj's GitHub stats"/>
-</a> -->
+</a>
 <hr>
    <!--  TOP LANGUAGES STATISTICS -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
