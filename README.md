@@ -1,9 +1,5 @@
 # Hi, I'm Bharathwaj Sivakumar (:computer:)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/bharathwajist)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://tamaai.com/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/BharathWajist)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/bharathwajist/)
 <!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@sachinmalhotra) -->
 
 Be honest with me. Otherwise I won't show my code.
@@ -32,28 +28,29 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 I currently live in Chennai, Tamilnadu and I encourage everyone to definitely visit some of the amazing places in and around the area if you get a chance! For some inspiration, Because I don't like to visit any of them as I said I'm crowd alergic. I hate going out.
 
----
-## 👨‍💻 Github Stats
+
+<!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/bharathwajist/count.svg?align=center)
 
-<hr>
-<a href="https://github.com/bharathwajist/bharathwajist">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathwajist&hide=handlebars,ejs&bg_color=010d28&title_color=F2C300&icon_color=F2bbc8a&text_color=ffffff&langs_count=4" alt="Top Langs"/>
-</a>
+---
+## 👨‍💻 Github Stats<!-- STATISTICS ABOUT PROFILE -->
+
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathwajist&theme=dracula&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ---
 <a href="https://github.com/bharathwajist/bharathwajist">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathwajist&show_icons=true&count_private=true&bg_color=010d28&title_color=F2C300&icon_color=F2bbc8a&text_color=ffffff&include_all_commits=true" alt="Bharathwaj's GitHub stats"/>
 </a>
 <hr>
-   <!--  TOP LANGUAGES STATISTICS -->
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 
-   ---
-</hr>
- <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathwajist&show_icons=true&theme=dracula" />
-
-<hr>
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharathwajist&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+---
+<!-- ACTIVITY GRAPH TRACKER -->
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=bharathwajist&theme=react-dark)](https://github.com/bharathwajist/github-readme-activity-graph)
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
